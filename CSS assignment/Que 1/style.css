@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    margin: 5px;
+    font-size: 18px;
+    background-color:#156ee2;
+    height: 40px;
+    line-height: 40px;
+    list-style: none;
+
+
+}
+
+li {
+    float: left;
+    display: inline;
+}
+
+a {
+    padding: 0 20px;
+    color: #fff;
+    /* text-decoration: none; */
+
+}

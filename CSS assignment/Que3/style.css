@@ -1,0 +1,65 @@
+* {
+    padding: 0;
+    margin: 2px 0;
+}
+
+ul {
+    background-color: #0d7cf1;
+    height: 40px;
+    line-height: 35px;
+    list-style: none;
+    display: block;
+
+}
+
+li {
+    float: left;
+    font-size: 20px;
+    padding: 0 30px;
+
+}
+
+a {
+    color: #fff;
+    padding: 0 5px;
+    /* text-decoration: none; */
+}
+
+.home {
+    border-style: dashed;
+    border-color: red;
+    border-width: 3px;
+    padding: 4px;
+}
+
+.about {
+    border-style: dotted;
+    border-color: red;
+    border-width: 3px;
+    padding: 4px;
+
+}
+
+.contact {
+    border-style: groove;
+    border-color: red;
+    border-width: 3px;
+    padding: 4px;
+
+}
+
+.blog {
+    border-style: double;
+    border-color: red;
+    border-width: 3px;
+    padding: 4px;
+
+}
+
+.link {
+    border-style: solid;
+    border-color: red;
+    border-width: 3px;
+    padding: 4px;
+
+}
